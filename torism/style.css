@@ -1,0 +1,43 @@
+
+#a li {
+
+    background-color: black;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+ul li{
+    list-style-type: none;
+    float:left;
+    padding:15px;
+    height:60px;
+    width:250px;
+    text-align: center;
+}
+
+
+#a li a{
+    text-decoration: none;
+}
+#a li:hover{
+    background-color: black;
+    opacity:1.1;
+    filter: alpha(opacity=50);
+}
+#b  li  {
+    background-color: #FFFFFF;
+
+}
+#b input{
+    border:0px;
+
+}
+
+
+
+
+
+
+
+
+
+
